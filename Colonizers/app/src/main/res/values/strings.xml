@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">2×2</string>
+    <string name="count">Счет</string>
+    <string name="blitz">Блиц</string>
+    <string name="endless">Бесконенчый</string>
+    <string name="setting">Настройки</string>
+    <string name="primarySchool">Начальная школа</string>
+    <string name="fourthForm">Четвероклассник</string>
+    <string name="ninthForm">Девятиклассник</string>
+    <string name="eleventhForm">Одиннадцатиклассник</string>
+    <string name="student">Студент</string>
+    <string name="graduate">Выпускник</string>
+    <string name="scientist">Ученый</string>
+    <string name="gameover">Игра окончена</string>
+    <string name="reset">Заново</string>
+    <string name="menu">Глваное меню</string>
+    <string name="pause">Пауза</string>
+    <string name="go">Продолжить</string>
+    <string name="information">Пособие</string>
+    <string name="text"> \n
+    sin(0°) = 0 \n sin(90°) = 1 \n sin(180°) = 0 \n cos(0°) = 1 \n cos(90°) = 0 \n cos(180°) = -1 \n tg(45°) = 1 \n ctg(45°) = 1</string>
+    <string name="play">Играть</string>
+    <string name="lvls">Уровни</string>
+    <string name="text2"> \n tg(0°) = 0 \n tg(180°) = 0 \n ctg(90°) = 0</string>
+
+</resources>
